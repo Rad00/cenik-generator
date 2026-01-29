@@ -1,0 +1,124 @@
+{
+  "templates": [
+    {
+      "id": "elektro",
+      "name": "Elektroinštalacije",
+      "baseImage": "assets/templates/elektro-base.png",
+      "width": 1414,
+      "height": 2000,
+      "version": {
+        "prefix": "Verzija: ",
+        "x": 143,
+        "y": 1150,
+        "fontFamily": "CenikFont",
+        "fontSize": 76,
+        "fontWeight": "700",
+        "color": "#1a5a96",
+        "maxWidth": 830,
+        "minFontSize": 56
+      },
+      "validFrom": {
+        "prefix": "Veljaven od: ",
+        "x": 143,
+        "y": 1280,
+        "fontFamily": "CenikFont",
+        "fontSize": 50,
+        "fontWeight": "500",
+        "letterSpacing": 4,
+        "color": "#333333",
+        "maxWidth": 710,
+        "minFontSize": 32
+      }
+    },
+    {
+      "id": "odprodaja",
+      "name": "Odprodaja",
+      "baseImage": "assets/templates/odprodaja-base.png",
+      "width": 1414,
+      "height": 2000,
+      "version": {
+        "prefix": "Verzija: ",
+        "x": 143,
+        "y": 1150,
+        "fontFamily": "CenikFont",
+        "fontSize": 76,
+        "fontWeight": "700",
+        "color": "#1a5a96",
+        "maxWidth": 830,
+        "minFontSize": 56
+      },
+      "validFrom": {
+        "prefix": "Veljaven od: ",
+        "x": 143,
+        "y": 1280,
+        "fontFamily": "CenikFont",
+        "fontSize": 50,
+        "fontWeight": "500",
+        "letterSpacing": 4,
+        "color": "#333333",
+        "maxWidth": 710,
+        "minFontSize": 32
+      }
+    },
+    {
+      "id": "razsvetljava",
+      "name": "Razsvetljava",
+      "baseImage": "assets/templates/razsvetljava-base.png",
+      "width": 1414,
+      "height": 2000,
+      "version": {
+        "prefix": "Verzija: ",
+        "x": 143,
+        "y": 1150,
+        "fontFamily": "CenikFont",
+        "fontSize": 76,
+        "fontWeight": "700",
+        "color": "#1a5a96",
+        "maxWidth": 830,
+        "minFontSize": 56
+      },
+      "validFrom": {
+        "prefix": "Veljaven od: ",
+        "x": 143,
+        "y": 1280,
+        "fontFamily": "CenikFont",
+        "fontSize": 50,
+        "fontWeight": "500",
+        "letterSpacing": 4,
+        "color": "#333333",
+        "maxWidth": 710,
+        "minFontSize": 32
+      }
+    },
+    {
+      "id": "topmet",
+      "name": "Proizvajalec (Topmet)",
+      "baseImage": "assets/templates/topmet-base.png",
+      "width": 1414,
+      "height": 2000,
+      "version": {
+        "prefix": "Verzija: ",
+        "x": 143,
+        "y": 1150,
+        "fontFamily": "CenikFont",
+        "fontSize": 76,
+        "fontWeight": "700",
+        "color": "#1a5a96",
+        "maxWidth": 830,
+        "minFontSize": 56
+      },
+      "validFrom": {
+        "prefix": "Veljaven od: ",
+        "x": 143,
+        "y": 1280,
+        "fontFamily": "CenikFont",
+        "fontSize": 50,
+        "fontWeight": "500",
+        "letterSpacing": 4,
+        "color": "#333333",
+        "maxWidth": 710,
+        "minFontSize": 32
+      }
+    }
+  ]
+}
